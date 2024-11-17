@@ -2,12 +2,12 @@
 
 ## Overview
 
-This repository contains the code, data, and findings for our project on applying and automating the **Bechdel Test** to a selection of Oscar-nominated films. The Bechdel Test, designed to assess gender representation in movies, poses three questions:
+This repository contains the code, data, and findings for applying and automating the **Bechdel Test** to a selection of Oscar-nominated films. The Bechdel Test, designed to assess gender representation in movies, poses three questions:
 1. Does the film feature at least two women?
 2. Do these women speak to each other?
 3. Is their conversation about something other than a man?
 
-Our goal was to evaluate gender representation programmatically by analyzing film scripts, cast details, and dialogue content using a relational database and natural language processing techniques.
+The goal was to evaluate gender representation programmatically by analyzing film scripts, cast details, and dialogue content using a relational database and natural language processing techniques.
 
 ---
 
