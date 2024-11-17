@@ -36,5 +36,5 @@ Publicly available data from:
 ### Prerequisites
 - Python 3.x
 - SQLite
-- Required libraries (listed in `requirements.txt`)
+- Required libraries (code)
 
